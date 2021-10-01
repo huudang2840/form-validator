@@ -1,0 +1,3 @@
+// Đối tượng
+
+function Validator()
